@@ -53,7 +53,8 @@ DEFAULT_VPNGATE_MIRROR = (
 )
 
 # DEFAULT_OPTIMAL_API = "https://cf.090227.xyz/ct?ips=6&port=443"
-DEFAULT_OPTIMAL_API = "https://cf.090227.xyz/cmcc?ips=8port=443"
+# DEFAULT_OPTIMAL_API = "https://cf.090227.xyz/cmcc?ips=8port=443"
+DEFAULT_OPTIMAL_API = ""
 
 # 占位符检测：命中任意一个就认为用户还没配置
 PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
